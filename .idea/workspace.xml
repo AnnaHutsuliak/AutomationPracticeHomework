@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AutomationPractice" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4JQyLBD6DXPHO4kOe3TfqRdkx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="epam.com.webdriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CheckEmailHappyPath">
+    <configuration name="CheckAssertions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epam.com.webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epam.com.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="epam.com.webdriver.CheckAssertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckAssertions.testCaseVerifyHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="epam.com.webdriver.CheckAssertions" />
+      <option name="METHOD_NAME" value="testCaseVerifyHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckEmailHappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epam.com.webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epam.com.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="epam.com.webdriver.CheckEmailHappyPath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckEmailHappyPath.checkEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epam.com.webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epam.com.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="epam.com.webdriver.CheckEmailHappyPath" />
+      <option name="METHOD_NAME" value="checkEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckEmailUnhappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epam.com.webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epam.com.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="epam.com.webdriver.CheckEmailUnhappyPath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CheckEmailHappyPath" />
+        <item itemvalue="TestNG.CheckEmailUnhappyPath" />
+        <item itemvalue="TestNG.CheckEmailHappyPath.checkEmail" />
+        <item itemvalue="TestNG.CheckAssertions.testCaseVerifyHomePage" />
+        <item itemvalue="TestNG.CheckAssertions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="" />
+      <created>1582195920369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582195920369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="10" key="#CheckAssertions" timestamp="1582231490707">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="10" key="#CheckAssertions/0.0.1366.728@0.0.1366.728" timestamp="1582231490707" />
+    <state x="275" y="21" key="#Project_Structure" timestamp="1582216480711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582216480711" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1582200062998">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582200062998" />
+    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582237119043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582237119043" />
+    <state x="484" y="118" key="FileChooserDialogImpl" timestamp="1582216474040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582216474040" />
+    <state width="1306" height="113" key="GridCell.Tab.0.bottom" timestamp="1582622168706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="113" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582622168706" />
+    <state width="1306" height="113" key="GridCell.Tab.0.center" timestamp="1582622168705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="113" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582622168705" />
+    <state width="1306" height="113" key="GridCell.Tab.0.left" timestamp="1582622168705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="113" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582622168705" />
+    <state width="1306" height="113" key="GridCell.Tab.0.right" timestamp="1582622168705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="113" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582622168705" />
+    <state width="1322" height="208" key="GridCell.Tab.1.bottom" timestamp="1582240980479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582240980479" />
+    <state width="1322" height="208" key="GridCell.Tab.1.center" timestamp="1582240980479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582240980479" />
+    <state width="1322" height="208" key="GridCell.Tab.1.left" timestamp="1582240980479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582240980479" />
+    <state width="1322" height="208" key="GridCell.Tab.1.right" timestamp="1582240980479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582240980479" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1582220713114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582220713114" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1582634105829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582634105829" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1582633822685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582633822685" />
+    <state x="65" y="0" key="new project wizard" timestamp="1582216645305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582216645305" />
+    <state x="551" y="259" key="save.project.as.template.dialog" timestamp="1582621734049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="259" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582621734049" />
+  </component>
+</project>
