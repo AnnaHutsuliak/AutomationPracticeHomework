@@ -1,0 +1,7 @@
+Index: src/test/java/epam/com/webdriver/CheckAssertions.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/test/java/epam/com/webdriver/CheckAssertions.java	(date 1582619656000)
++++ src/test/java/epam/com/webdriver/CheckAssertions.java	(date 1582619656000)
