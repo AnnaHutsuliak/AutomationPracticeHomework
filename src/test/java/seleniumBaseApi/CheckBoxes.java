@@ -2,14 +2,28 @@ package seleniumBaseApi;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class CheckBoxes {
-    ChromeDriver chromeDriver = new ChromeDriver();
-    @DataProvider()
-    public Object[][] dataProviderCheckWithXPath() {
+    private ChromeDriver chromeDriver;
+
+    @BeforeClass
+    public void appSetup() {
+        chromeDriver = new ChromeDriver();
         chromeDriver.get("https://formy-project.herokuapp.com/checkbox");
+        chromeDriver.manage().window().maximize();
+    }
+
+    @AfterClass
+    public void closeBrowser() {
+        chromeDriver.quit();
+    }
+
+    @DataProvider
+    public Object[][] dataProviderXPath() {
         return new Object[][]{
                 {"//input[@id='checkbox-1']"},
                 {"//input[@id='checkbox-2']"},
@@ -17,15 +31,8 @@ public class CheckBoxes {
         };
     }
 
-    @Test (dataProvider = "dataProviderCheckWithXPath")
-    public void checkBoxesWithXpath (Object data){
-        chromeDriver.get("https://formy-project.herokuapp.com/checkbox");
-        chromeDriver.findElement(By.xpath((String) data)).click();
-           }
-
-    @DataProvider()
-    public Object[][] dataProviderCheckWithCss() {
-        chromeDriver.get("https://formy-project.herokuapp.com/checkbox");
+    @DataProvider
+    public Object[][] dataProviderCss() {
         return new Object[][]{
                 {"input#checkbox-1"},
                 {"input#checkbox-2"},
@@ -33,9 +40,16 @@ public class CheckBoxes {
         };
     }
 
-    @Test (dataProvider = "dataProviderCheckWithCss")
-    public void checkBoxesWithCss (Object data){
-        chromeDriver.get("https://formy-project.herokuapp.com/checkbox");
-        chromeDriver.findElement(By.cssSelector((String) data)).click();
+
+    @Test(dataProvider = "dataProviderXPath")
+    public void checkBoxesWithXpath(String selector) {
+        chromeDriver.findElement(By.xpath(selector)).click();
     }
+
+    @Test(dataProvider = "dataProviderCss")
+    public void checkBoxesWithCss(String selector) {
+        chromeDriver.findElement(By.cssSelector(selector)).click();
+    }
+
+
 }
