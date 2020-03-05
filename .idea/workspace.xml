@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="seleniumBaseApi (buttons+checkboxes)">
+    <list default="true" id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/CheckDropdown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/epam/com/webdriver/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/epam/com/webdriver/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/com/webdriver/CheckAssertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/com/webdriver/CheckAssertions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/com/webdriver/CheckEmailHappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/com/webdriver/CheckEmailHappyPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/com/webdriver/CheckEmailUnhappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/com/webdriver/CheckEmailUnhappyPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/VerifyButtons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/CheckBoxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/CheckBoxes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskFirst/TitleSaveAndSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskFirst/TitleSaveAndSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskFirst/TitlesCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskFirst/TitlesCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskSecond/InfoSubmit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskSecond/InfoSubmit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/epam/com/webdriver/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/epam/com/webdriver/Email.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/epam/com/webdriver/CheckEmailHappyPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/epam/com/webdriver/CheckEmailHappyPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/epam/com/webdriver/CheckEmailUnhappyPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/epam/com/webdriver/CheckEmailUnhappyPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/epam/com/webdriver/UiTestsCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/epam/com/webdriver/UiTestsCases.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumBaseApi/Buttons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumBaseApi/CheckBoxes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumBaseApi/CheckBoxes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +50,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -70,23 +58,6 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.CheckDropdown">
-    <configuration name="CheckDropDown" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.CheckDropDown" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CheckDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <extension name="coverage">
@@ -98,6 +69,24 @@
       <option name="PACKAGE_NAME" value="seleniumBaseApi" />
       <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.CheckDropdown" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckDropdown.testClickButtons" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
+      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.CheckDropdown" />
+      <option name="METHOD_NAME" value="testClickButtons" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -161,10 +150,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.CheckDropdown" />
+        <item itemvalue="TestNG.CheckDropdown.testClickButtons" />
         <item itemvalue="TestNG.VerifyDropdown.checkDropdown" />
         <item itemvalue="TestNG.InfoSubmit.submitOneHundredWords" />
         <item itemvalue="TestNG.InfoSubmit.submitWithEmptyComment" />
-        <item itemvalue="TestNG.CheckDropDown" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582995081313</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="seleniumBaseApi (buttons+checkboxes)">
+      <created>1583339960750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583339960750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,10 +226,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582237119043" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583327290268">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583339955459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583327290268" />
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583339955459" />
     <state x="484" y="118" key="FileChooserDialogImpl" timestamp="1583327351637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -246,22 +242,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1582995891014" />
-    <state width="1306" height="151" key="GridCell.Tab.0.bottom" timestamp="1583336716896">
+    <state width="1306" height="151" key="GridCell.Tab.0.bottom" timestamp="1583411888228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583336716896" />
-    <state width="1306" height="151" key="GridCell.Tab.0.center" timestamp="1583336716895">
+    <state width="1306" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583411888228" />
+    <state width="1306" height="151" key="GridCell.Tab.0.center" timestamp="1583411888228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583336716895" />
-    <state width="1306" height="151" key="GridCell.Tab.0.left" timestamp="1583336716895">
+    <state width="1306" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583411888228" />
+    <state width="1306" height="151" key="GridCell.Tab.0.left" timestamp="1583411888228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583336716895" />
-    <state width="1306" height="151" key="GridCell.Tab.0.right" timestamp="1583336716895">
+    <state width="1306" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583411888228" />
+    <state width="1306" height="151" key="GridCell.Tab.0.right" timestamp="1583411888228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583336716895" />
+    <state width="1306" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583411888228" />
     <state width="1306" height="201" key="GridCell.Tab.1.bottom" timestamp="1582719774475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -282,14 +278,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582712929778" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1582634105829">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583340741553">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582634105829" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583327501882">
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583340741553" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583339990371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583327501882" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583339990371" />
     <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583331403836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -298,10 +294,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583331403836" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583326354484">
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583410060921">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583326354484" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583410060921" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583327597260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -318,10 +314,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="168" key="save.file.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1583336909188" />
-    <state x="551" y="259" key="save.project.as.template.dialog" timestamp="1583336915228">
+    <state x="551" y="259" key="save.project.as.template.dialog" timestamp="1583412093614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="551" y="259" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1583336915228" />
+    <state x="551" y="259" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1583412093614" />
     <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583090130942">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
