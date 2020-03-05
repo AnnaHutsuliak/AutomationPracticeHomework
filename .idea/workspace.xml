@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumBaseApi/CheckDropdown.java" afterDir="false" />
+    <list default="true" id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/epam/com/webdriver/UiTestsCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/epam/com/webdriver/UiTestsCases.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -201,13 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583339960750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated">
+      <created>1583412195268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583412195268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework2" />
     <MESSAGE value="seleniumBaseApi (buttons+checkboxes)" />
-    <option name="LAST_COMMIT_MESSAGE" value="seleniumBaseApi (buttons+checkboxes)" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="10" key="#CheckAssertions" timestamp="1582231490707">
@@ -226,10 +232,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582237119043" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583339955459">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583412444210">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583339955459" />
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583412444210" />
     <state x="484" y="118" key="FileChooserDialogImpl" timestamp="1583327351637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -282,10 +288,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583340741553" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583339990371">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583412365836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583339990371" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583412365836" />
     <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583331403836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
