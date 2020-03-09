@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Cucumber.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linkedIn/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskSecond/DataProviderBBC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskSecond/InfoSubmit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskSecond/InfoSubmit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +31,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="TaskGrow" />
+        <entry key="$PROJECT_DIR$" value="selenium_page_selenium_page_object_model_practice" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -262,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583412475924</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated">
+      <created>1583719807389</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583719807389</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,6 +282,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="400" y="72" key="#Feature:_LinkedIn/0.0.1366.728@0.0.1366.728" timestamp="1583702914308" />
+    <state x="275" y="22" key="#Notifications" timestamp="1583720161731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583720161731" />
     <state x="275" y="21" key="#Project_Structure" timestamp="1583694584182">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -320,10 +326,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583684805100" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583719731001">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583720233581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583719731001" />
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583720233581" />
     <state x="748" y="130" key="FileChooserDialogImpl" timestamp="1583699500909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -376,10 +382,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583698955690" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583414101727">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583720090002">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583414101727" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583720090002" />
     <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1583604605708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
