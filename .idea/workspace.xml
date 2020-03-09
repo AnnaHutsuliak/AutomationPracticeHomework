@@ -347,10 +347,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583684805100" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583721500989">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583721662022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583721500989" />
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583721662022" />
+    <state x="111" y="54" key="DiffContextDialog" timestamp="1583721689120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="111" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1583721689120" />
     <state x="748" y="130" key="FileChooserDialogImpl" timestamp="1583699500909">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -403,10 +407,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583698955690" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583721528300">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583721712335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583721528300" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583721712335" />
     <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1583604605708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
