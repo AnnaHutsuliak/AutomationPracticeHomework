@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="Updated">
+    <list default="true" id="2de95484-bb04-4d3f-87c6-5442724ed909" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Cucumber.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/linkedIn/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskSecond/DataProviderBBC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskSecond/InfoSubmit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/variantSecondGrowTaskSecond/InfoSubmit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="FxmlFile" />
+        <option value="Unnamed" />
         <option value="Class" />
       </list>
     </option>
@@ -23,6 +30,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Anna Hutsuliak &lt;anhutsuliak@gmail.com&gt;" />
         <option value="AnnaHutsuliak" />
       </list>
     </option>
@@ -43,102 +51,143 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="C:/Program Files/Cucumber/CucumberJarFiles.zip!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Epам\автоматизация\Homework\AutomationPractice\src\test\resources" />
+      <recent name="D:\Epам\автоматизация\Homework\AutomationPractice\src\test\features" />
+      <recent name="D:\Epам\автоматизация\Homework\AutomationPractice\src\test\java\linkedin" />
+      <recent name="D:\Epам\автоматизация\Homework\AutomationPractice\src\test\java\linkedin\cucumber" />
+      <recent name="D:\Epам\автоматизация\Homework\AutomationPractice\src\test\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test" />
+      <recent name="" />
       <recent name="epam.com.webdriver" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="linkedin.cucumber" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.CheckDropdown">
-    <configuration name="CheckDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.InfoSubmit">
+    <configuration name="Feature: LinkedIn" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/linkedin/LinkedIn.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="AutomationPractice" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: LinkedIn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.CheckDropdown" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunLinkedIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="linkedin" />
+      <option name="MAIN_CLASS_NAME" value="linkedin.RunLinkedIn" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunLinkedInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunLinkedInTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunLinkedInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedIn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="linkedin" />
+      <option name="MAIN_CLASS_NAME" value="linkedin.RunLinkedInTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedIn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="linkedIn" />
+      <option name="MAIN_CLASS_NAME" value="linkedIn.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linkedIn in AutomationPractice" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedIn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="linkedIn" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfoSubmit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variantSecondGrowTaskSecond.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="variantSecondGrowTaskSecond" />
+      <option name="MAIN_CLASS_NAME" value="variantSecondGrowTaskSecond.InfoSubmit" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckDropdown.testClickButtons" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.CheckDropdown" />
-      <option name="METHOD_NAME" value="testClickButtons" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InfoSubmit.submitOneHundredWords" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variantSecondGrowTaskSecond.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="variantSecondGrowTaskSecond" />
-      <option name="MAIN_CLASS_NAME" value="variantSecondGrowTaskSecond.InfoSubmit" />
-      <option name="METHOD_NAME" value="submitOneHundredWords" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InfoSubmit.submitWithEmptyComment" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="variantSecondGrowTaskSecond.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="variantSecondGrowTaskSecond" />
-      <option name="MAIN_CLASS_NAME" value="variantSecondGrowTaskSecond.InfoSubmit" />
-      <option name="METHOD_NAME" value="submitWithEmptyComment" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerifyDropdown.checkDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumBaseApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumBaseApi" />
-      <option name="MAIN_CLASS_NAME" value="seleniumBaseApi.VerifyDropdown" />
-      <option name="METHOD_NAME" value="checkDropdown" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -147,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CheckDropdown" />
-        <item itemvalue="TestNG.CheckDropdown.testClickButtons" />
-        <item itemvalue="TestNG.VerifyDropdown.checkDropdown" />
-        <item itemvalue="TestNG.InfoSubmit.submitOneHundredWords" />
-        <item itemvalue="TestNG.InfoSubmit.submitWithEmptyComment" />
+        <item itemvalue="TestNG.InfoSubmit" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="JUnit.RunLinkedInTest (1)" />
+        <item itemvalue="JUnit.RunLinkedInTest" />
+        <item itemvalue="JUnit.RunLinkedIn" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583412195268</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated">
+      <created>1583412475924</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583412475924</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,26 +276,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="10" key="#CheckAssertions/0.0.1366.728@0.0.1366.728" timestamp="1582231490707" />
-    <state x="275" y="21" key="#Project_Structure" timestamp="1583085468415">
+    <state x="400" y="72" key="#Feature:_LinkedIn" timestamp="1583702914308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583085468415" />
+    <state x="400" y="72" key="#Feature:_LinkedIn/0.0.1366.728@0.0.1366.728" timestamp="1583702914308" />
+    <state x="275" y="21" key="#Project_Structure" timestamp="1583694584182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583694584182" />
+    <state x="280" y="68" key="#RunLinkedIn" timestamp="1583688369709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="68" key="#RunLinkedIn/0.0.1366.728@0.0.1366.728" timestamp="1583688369709" />
+    <state x="280" y="68" key="#RunLinkedInTest_(1)" timestamp="1583699530487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="68" key="#RunLinkedInTest_(1)/0.0.1366.728@0.0.1366.728" timestamp="1583699530487" />
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583694758184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583694758184" />
     <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1582709586395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582709586395" />
-    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582237119043">
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583705314682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582237119043" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583412444210">
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1583705314682" />
+    <state x="321" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583708577637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583412444210" />
-    <state x="484" y="118" key="FileChooserDialogImpl" timestamp="1583327351637">
+    <state x="321" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1583708577637" />
+    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583696055077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="484" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583327351637" />
+    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583696055077" />
+    <state x="479" y="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1583705316509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1583705316509" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583684805100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583684805100" />
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1583719731001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583719731001" />
+    <state x="748" y="130" key="FileChooserDialogImpl" timestamp="1583699500909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="748" y="130" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583699500909" />
     <state x="505" y="279" key="Github.CreateGistDialog" timestamp="1582995373373">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -248,62 +336,70 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1582995891014" />
-    <state width="1306" height="151" key="GridCell.Tab.0.bottom" timestamp="1583411888228">
+    <state width="1306" height="261" key="GridCell.Tab.0.bottom" timestamp="1583717731568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583411888228" />
-    <state width="1306" height="151" key="GridCell.Tab.0.center" timestamp="1583411888228">
+    <state width="1306" height="261" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583717731568" />
+    <state width="1306" height="261" key="GridCell.Tab.0.center" timestamp="1583717731568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583411888228" />
-    <state width="1306" height="151" key="GridCell.Tab.0.left" timestamp="1583411888228">
+    <state width="1306" height="261" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583717731568" />
+    <state width="1306" height="261" key="GridCell.Tab.0.left" timestamp="1583717731568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583411888228" />
-    <state width="1306" height="151" key="GridCell.Tab.0.right" timestamp="1583411888228">
+    <state width="1306" height="261" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583717731568" />
+    <state width="1306" height="261" key="GridCell.Tab.0.right" timestamp="1583717731568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583411888228" />
-    <state width="1306" height="201" key="GridCell.Tab.1.bottom" timestamp="1582719774475">
+    <state width="1306" height="261" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583717731568" />
+    <state width="1306" height="200" key="GridCell.Tab.1.bottom" timestamp="1583697491380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="201" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582719774475" />
-    <state width="1306" height="201" key="GridCell.Tab.1.center" timestamp="1582719774475">
+    <state width="1306" height="200" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583697491380" />
+    <state width="1306" height="200" key="GridCell.Tab.1.center" timestamp="1583697491380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="201" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582719774475" />
-    <state width="1306" height="201" key="GridCell.Tab.1.left" timestamp="1582719774475">
+    <state width="1306" height="200" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583697491380" />
+    <state width="1306" height="200" key="GridCell.Tab.1.left" timestamp="1583697491380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="201" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582719774475" />
-    <state width="1306" height="201" key="GridCell.Tab.1.right" timestamp="1582719774475">
+    <state width="1306" height="200" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583697491380" />
+    <state width="1306" height="200" key="GridCell.Tab.1.right" timestamp="1583697491380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="201" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582719774475" />
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1582712929778">
+    <state width="1306" height="200" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583697491380" />
+    <state x="218" y="35" key="Maven.ArtifactSearchDialog" timestamp="1583699898007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582712929778" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1583340741553">
+    <state x="218" y="35" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1583699898007" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1583698955690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583340741553" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583412365836">
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583698955690" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1583414101727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583412365836" />
-    <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583331403836">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583414101727" />
+    <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1583604605708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583331403836" />
-    <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583331403836">
+    <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583604605708" />
+    <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583529328740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583331403836" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583410060921">
+    <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583529328740" />
+    <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583529328740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583410060921" />
+    <state x="100" y="101" width="1166" height="527" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583529328740" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583694270225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583694270225" />
+    <state x="408" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583693256203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1583693256203" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583327597260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -312,22 +408,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582216645305" />
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583694546119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1583694546119" />
     <state x="324" y="79" width="700" height="530" key="recent.locations.popup" timestamp="1583014613934">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="324" y="79" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1583014613934" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583522719311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583522719311" />
     <state x="463" y="168" key="save.file.as.template.dialog" timestamp="1583336909188">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="168" key="save.file.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1583336909188" />
-    <state x="551" y="259" key="save.project.as.template.dialog" timestamp="1583412093614">
+    <state x="551" y="259" key="save.project.as.template.dialog" timestamp="1583718761989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="551" y="259" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1583412093614" />
-    <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583090130942">
+    <state x="551" y="259" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1583718761989" />
+    <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583522173538">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1583090130942" />
+    <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1583522173538" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,5 +443,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutomationPractice$RunLinkedInTest__1_.ic" NAME="RunLinkedInTest (1) Coverage Results" MODIFIED="1583699298800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>linkedin.*</FILTER>
+    </SUITE>
   </component>
 </project>

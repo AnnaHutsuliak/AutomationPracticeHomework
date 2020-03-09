@@ -49,7 +49,7 @@ public class InfoSubmit {
         chromeDriver.findElement(By.xpath("//input[@class='contact-form__input'][@id='phone']")).sendKeys(number);
         chromeDriver.findElement(By.xpath("//textarea[@class='contact-form__textarea'][@id='message']")).sendKeys(comment);
         chromeDriver.findElement(By.xpath("//input[@class='contact-form__input--submit'][@id='submit']"));
-        Assert.assertEquals(chromeDriver.getCurrentUrl(), "https://www.bbc.com/news/10725415", "Current URL is correct webpage");
+        Assert.assertEquals(chromeDriver.getCurrentUrl(), "https://www.bbc.com/news/10725415", "Current URL is not correct webpage");
     }
 
     @Test(dataProvider = "dataProviderTwoHundredWords", dataProviderClass = DataProviderBBC.class)
@@ -61,7 +61,7 @@ public class InfoSubmit {
         chromeDriver.findElement(By.xpath("//input[@class='contact-form__input'][@id='phone']")).sendKeys(number);
         chromeDriver.findElement(By.xpath("//textarea[@class='contact-form__textarea'][@id='message']")).sendKeys(comment);
         chromeDriver.findElement(By.xpath("//input[@class='contact-form__input--submit'][@id='submit']"));
-        Assert.assertEquals(chromeDriver.getCurrentUrl(), "https://www.bbc.com/news/10725415", "Current URL is correct webpage");
+        Assert.assertEquals(chromeDriver.getCurrentUrl(), "https://www.bbc.com/news/10725415", "Current URL is not correct webpage");
     }
 
     @Test(dataProvider = "dataProviderOneHundredWords", dataProviderClass = DataProviderBBC.class)
@@ -73,7 +73,7 @@ public class InfoSubmit {
         chromeDriver.findElement(By.xpath("//input[@class='contact-form__input'][@id='phone']")).sendKeys(number);
         chromeDriver.findElement(By.xpath("//textarea[@class='contact-form__textarea'][@id='message']")).sendKeys(comment);
         chromeDriver.findElement(By.xpath("//input[@class='contact-form__input--submit'][@id='submit']")).click();
-        Assert.assertEquals(chromeDriver.getCurrentUrl(), "https://www.bbc.com/news/10725415", "Current URL is correct webpage");
+        Assert.assertEquals(chromeDriver.getCurrentUrl(), "https://www.bbc.com/news/10725415", "Current URL is not correct webpage");
     }
 
     @Test(dataProvider = "dataProviderOneHundredWords", dataProviderClass = DataProviderBBC.class)
@@ -85,7 +85,7 @@ public class InfoSubmit {
         chromeDriver.findElement(By.xpath("//input[@class='contact-form__input'][@id='phone']")).sendKeys(number);
         chromeDriver.findElement(By.xpath("//textarea[@class='contact-form__textarea'][@id='message']")).sendKeys("");
         chromeDriver.findElement(By.xpath("//input[@class='contact-form__input--submit'][@id='submit']")).click();
-        Assert.assertEquals(chromeDriver.getCurrentUrl(), "https://www.bbc.com/news/10725415", "Current URL is correct webpage");
+        Assert.assertEquals(chromeDriver.getCurrentUrl(), "https://www.bbc.com/news/10725415", "Current URL is not correct webpage");
     }
 }
 
